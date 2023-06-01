@@ -1,0 +1,60 @@
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Common\bin\Debug\Common.dll
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Common\bin\Debug\Common.pdb
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.dll
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.pdb
+\\Mac\Home\Desktop\Virtuelizacija-main\Zadatak1\Common\bin\Debug\Common.dll
+\\Mac\Home\Desktop\Virtuelizacija-main\Zadatak1\Common\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.dll
+\\Mac\Home\Desktop\Virtuelizacija-main\Zadatak1\Common\obj\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Common\obj\Debug\Common.pdb

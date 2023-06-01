@@ -1,0 +1,236 @@
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\Ludi\Downloads\Virtuelizacija-main\Zadatak1\Client\obj\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\Korisnik\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\20-05-2023-1453\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+\\Mac\Home\Desktop\virt_dorada\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\23-05-2023-2041\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+\\Mac\Home\Desktop\Obrada_odradjena\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\Korisnik\Desktop\Obrada_odradjena\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+D:\SNIMANJA\FAKS JU\3GODINA\VIRTUELIZACIJA PROCESA\VIRT_PROJ\27-05-2023-2007\XML_upis_sadzgan\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\Korisnik\Desktop\XML_upis_sadzgan\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\Ludi\Desktop\jedi eventove mbraleuuu\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\Acer\Desktop\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe.config
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.exe
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Client.pdb
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.dll
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\bin\Debug\Common.pdb
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\App.g.cs
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\MainWindow.baml
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.g.resources
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.exe
+C:\Users\dusan\OneDrive\Desktop\Virtuelizacija-dusvn\Virtuelizacija-dusvn\Zadatak1\Client\obj\Debug\Client.pdb
